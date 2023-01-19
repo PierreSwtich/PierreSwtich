@@ -39,7 +39,7 @@
 
 <br>
 
-- **Test Automation & More**:
+- **Test Automation & Manual Testing skills**:
 
     <img src="https://img.shields.io/badge/Playwright-323330?style=for-the-badge&logo=Playwright">
     <img src="https://img.shields.io/badge/Cypress-323331?style=for-the-badge&logo=Cypress">
