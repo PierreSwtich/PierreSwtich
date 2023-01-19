@@ -43,6 +43,18 @@
 
     <img src="https://img.shields.io/badge/Playwright-323330?style=for-the-badge&logo=Playwright">
     <img src="https://img.shields.io/badge/Cypress-323331?style=for-the-badge&logo=Cypress">
+    <img src="https://img.shields.io/badge/Jira-0058CC?style=for-the-badge&logo=Jira">
+    <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
+    <img src="https://img.shields.io/badge/Postman-323330?style=for-the-badge&logo=Postman">
+    <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red">
+    <img src="https://img.shields.io/badge/Insomnia-323330?style=for-the-badge&logo=Insomnia&logoColor=pink">
+    <img src="https://img.shields.io/badge/Storybook-323330?style=for-the-badge&logo=Storybook&logoColor=red">
+    <img src="https://img.shields.io/badge/Asana-323330?style=for-the-badge&logo=Asana&logoColor=orange">
+    <img src="https://img.shields.io/badge/Mongo%20DB-323330?style=for-the-badge&logo=MongoDB">
+    <img src="https://img.shields.io/badge/Storyblok-323330?style=for-the-badge&logo=Storyblok">
+    <img src="https://img.shields.io/badge/Shopify-323330?style=for-the-badge&logo=Shopify">
+    <img src="https://img.shields.io/badge/Heroku-323330?style=for-the-badge&logo=Heroku&logoColor=pink">
+
     
 - **Front-End Development**:
 
