@@ -56,7 +56,6 @@
     <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/Storybook-323330?style=for-the-badge&logo=Storybook&logoColor=red">
     <img src="https://img.shields.io/badge/Asana-323330?style=for-the-badge&logo=Asana&logoColor=orange">
-    <img src="https://img.shields.io/badge/Mongo%20DB-323330?style=for-the-badge&logo=MongoDB">
     <img src="https://img.shields.io/badge/Storyblok-323330?style=for-the-badge&logo=Storyblok">
     <img src="https://img.shields.io/badge/Shopify-323330?style=for-the-badge&logo=Shopify">
     <img src="https://img.shields.io/badge/Heroku-323330?style=for-the-badge&logo=Heroku&logoColor=pink">
