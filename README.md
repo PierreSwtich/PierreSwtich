@@ -17,10 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
 - Head of QA ['manual' + 'automation']
 - Currently learning Advanced Automation in Cypress & Playwright
 - I love Testing and I am strongly attached to quality assurance
+- And also after work a passionate Self-taught Front-end developer
 
 <br><br>
 
