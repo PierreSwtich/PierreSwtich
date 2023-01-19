@@ -41,7 +41,7 @@
 
 - **Test Automation & More**:
 
-<img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=Playwright">
+    <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=Playwright">
     
 - **Front-End Development**:
 
